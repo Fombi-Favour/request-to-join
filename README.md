@@ -7,18 +7,12 @@ Go to through the following steps to be added.
 ## Step 1
   * Create a new issue on this repo
   * The format for the issue is as follows:
-    * Name 
-    * Stage *(the level at which you are in the Box - I or II)*
-    * Programming Language of preferenc
-    * Age
-  
-  * *Example*
-   * Elroy Kanye
-   * I
-   * Java
-   * 19
-  
-  
+    * Name  << example: Elroy Kanye >>
+    * Stage *(the level at which you are in the Box - I or II)* << example: I >>
+    * Programming Language of preferenc << example: Java >>
+    * Age << example: 19 >>
+
+
 ## Step 2
   * Your issue will will be reviewed and an invite sent to you for approval
 
