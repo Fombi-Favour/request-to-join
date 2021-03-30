@@ -1,4 +1,4 @@
-# request-to-join
+# Request-to-Join
 
 ## This repo will be used as a means to add members to the organisation
 
