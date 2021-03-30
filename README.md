@@ -6,6 +6,7 @@ Go to through the following steps to be added.
 
 ## Step 1
   * Create a new issue on this repo
+  * Set the title of the issue as **Join Request**
   * The format for the issue is as follows:
     * Name  << example: Elroy Kanye >>
     * Stage *(the level at which you are in the Box - I or II)* << example: I >>
