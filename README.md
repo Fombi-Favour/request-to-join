@@ -12,11 +12,11 @@ Go to through the following steps to be added.
     * Programming Language of preferenc
     * Age
   
-  - Example
-  * Elroy Kanye
-  * I
-  * Java
-  * 19
+  * *Example*
+   * Elroy Kanye
+   * I
+   * Java
+   * 19
   
   
 ## Step 2
